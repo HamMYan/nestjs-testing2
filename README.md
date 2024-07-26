@@ -13,7 +13,7 @@ $ npm i
 $ npm run start:dev
 ```
 
-##For testing
+## For testing
 
 ```bash
 $ npm run test:watch
