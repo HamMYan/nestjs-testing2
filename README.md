@@ -4,5 +4,17 @@ This is my second nestjs testing class, it works with rest api - typeorm module 
 ## Installation
 
 ```bash
-$ npm install
+$ npm i
+```
+
+## For Run
+
+```bash
+$ npm run start:dev
+```
+
+##For testing
+
+```bash
+$ npm run test:watch
 ```
